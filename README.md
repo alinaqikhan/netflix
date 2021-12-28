@@ -1,2 +1,2 @@
-# netflix
+# Netflix
 Streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more ...
